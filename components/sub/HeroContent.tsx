@@ -38,7 +38,7 @@ const HeroContent = () => {
               {" "}
               Vishwakarma{" "}
             </span>
-            Fullstatck Developer
+            Fullstack Developer
           </span>
         </motion.div>
 
